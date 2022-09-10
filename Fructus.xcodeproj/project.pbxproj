@@ -19,6 +19,7 @@
 		5CC885D528CC97740047AD5A /* FruitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC885D428CC97740047AD5A /* FruitDetailView.swift */; };
 		5CC885D728CCA0C10047AD5A /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC885D628CCA0C10047AD5A /* FruitHeaderView.swift */; };
 		5CC885D928CCB2130047AD5A /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC885D828CCB2130047AD5A /* SourceLinkView.swift */; };
+		5CC885DB28CCD1600047AD5A /* FruitNutrientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC885DA28CCD1600047AD5A /* FruitNutrientsView.swift */; };
 		5CD34B9528CA37820068557C /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD34B9428CA37820068557C /* FruitRowView.swift */; };
 /* End PBXBuildFile section */
 
@@ -36,6 +37,7 @@
 		5CC885D428CC97740047AD5A /* FruitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitDetailView.swift; sourceTree = "<group>"; };
 		5CC885D628CCA0C10047AD5A /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
 		5CC885D828CCB2130047AD5A /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
+		5CC885DA28CCD1600047AD5A /* FruitNutrientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitNutrientsView.swift; sourceTree = "<group>"; };
 		5CD34B9428CA37820068557C /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -106,6 +108,7 @@
 				5CD34B9428CA37820068557C /* FruitRowView.swift */,
 				5CC885D628CCA0C10047AD5A /* FruitHeaderView.swift */,
 				5CC885D828CCB2130047AD5A /* SourceLinkView.swift */,
+				5CC885DA28CCD1600047AD5A /* FruitNutrientsView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 				5CC885D928CCB2130047AD5A /* SourceLinkView.swift in Sources */,
 				5C07E37E28C78709008B64D2 /* FruitCardView.swift in Sources */,
 				5CD34B9528CA37820068557C /* FruitRowView.swift in Sources */,
+				5CC885DB28CCD1600047AD5A /* FruitNutrientsView.swift in Sources */,
 				5C075A8028C7A4F40092D2BA /* StartButtonView.swift in Sources */,
 				5CC885D528CC97740047AD5A /* FruitDetailView.swift in Sources */,
 				5C07E37028C7766C008B64D2 /* ContentView.swift in Sources */,
