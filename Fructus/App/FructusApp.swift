@@ -20,7 +20,8 @@ struct FructusApp: App {
             else {
                 ContentView()
             }
-                
+            
         }
+
     }
 }
